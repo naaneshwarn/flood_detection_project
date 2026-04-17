@@ -17,4 +17,4 @@ An end-to-end Machine Learning project to predict flood risk levels across India
 1. **Install Dependencies:** `pip install -r requirements.txt`
 2. **Train Model:** `python train_and_save.py`
 3. **Start API:** `uvicorn main:app --reload`
-4. **Launch UI:** `streamlit run app.py`
+4. **Launch UI:** `streamlit run front-end.py`
